@@ -807,7 +807,7 @@ input[type=text]::-ms-clear {
 }
 
 /* Adjust form for smaller screens */
-@media screen and (max-width: 52em) {
+@media screen and (max-width: 52.5em) {
 	body {
 		min-height: 500px;
 	}
@@ -844,6 +844,7 @@ input[type=text]::-ms-clear {
 	.fs-nav-dots {
 		right: 25px;
 	}
+
 
 
 	button.fs-submit {
